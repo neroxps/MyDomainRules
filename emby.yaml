@@ -1,0 +1,11 @@
+payload:
+  # emby 搜刮及字幕下载
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,imvdb.com
+  - DOMAIN-SUFFIX,omdbapi.com
+  - DOMAIN-SUFFIX,theaudiodb.com
+  - DOMAIN-SUFFIX,thesubdb.com
+  - DOMAIN-SUFFIX,opensubtitles.org
+  - DOMAIN-SUFFIX,fanart.tv
