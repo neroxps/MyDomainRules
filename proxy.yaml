@@ -1,5 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,blueforcer.de
   - DOMAIN-SUFFIX,registry-1.docker.io
-  - DOMAIN,cloud2.mikrotik.com
-  - DOMAIN,cloud.mikrotik.com
