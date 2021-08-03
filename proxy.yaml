@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,registry-1.docker.io
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,proxmox.com
+  - DOMAIN-SUFFIX,themoviedb.org
