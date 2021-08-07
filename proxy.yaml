@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,proxmox.com
   - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,pythonhosted.org
