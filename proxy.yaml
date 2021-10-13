@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,fastly.net
+  - DOMAIN-SUFFIX,global.download.synology.com
