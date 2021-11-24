@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,global.download.synology.com
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,dynu.com
+  - DOMAIN-SUFFIX,segger.com
