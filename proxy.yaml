@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,dynu.com
   - DOMAIN-SUFFIX,segger.com
   - DOMAIN-SUFFIX,golang.org
+  - DOMAIN-SUFFIX,docker.io
