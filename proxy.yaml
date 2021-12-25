@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,dynu.com
   - DOMAIN-SUFFIX,segger.com
+  - DOMAIN-SUFFIX,golang.org
