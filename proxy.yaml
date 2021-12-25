@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,segger.com
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX, npmjs.org
