@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,api.met.no
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,*.io
+  - DOMAIN-SUFFIX,fonts.gstatic.com
