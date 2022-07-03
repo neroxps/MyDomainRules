@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,platformio.org
   - DOMAIN-SUFFIX,dl.wireshark.org
+  - DOMAIN-KEYWORD,espressif
