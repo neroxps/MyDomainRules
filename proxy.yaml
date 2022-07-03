@@ -23,3 +23,4 @@ payload:
   - DOMAIN-SUFFIX,*.io
   - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,platformio.org
+  - DOMAIN-SUFFIX,dl.wireshark.org
