@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,dl.wireshark.org
   - DOMAIN-KEYWORD,espressif
   - DOMAIN-SUFFIX,contabostorage.com
+  - DOMAIN-SUFFIX,lscr.io
