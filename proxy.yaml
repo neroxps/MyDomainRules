@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,dynu.com
   - DOMAIN-SUFFIX,segger.com
   - DOMAIN-SUFFIX,golang.org
+  - DOMAIN-SUFFIX,proxy.golang.org
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,fastlydns.net
