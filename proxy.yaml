@@ -28,3 +28,4 @@ payload:
   - DOMAIN-KEYWORD,espressif
   - DOMAIN-SUFFIX,contabostorage.com
   - DOMAIN-SUFFIX,lscr.io
+  - DOMAIN-SUFFIX,uwaterloo.ca
