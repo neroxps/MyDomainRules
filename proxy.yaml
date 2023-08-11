@@ -34,3 +34,4 @@ payload:
   - DOMAIN-SUFFIX,leaseweb.net
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,pypi.io
+  - DOMAIN-SUFFIX,opendev.org
