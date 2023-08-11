@@ -33,3 +33,4 @@ payload:
   - DOMAIN-SUFFIX,rackspace.com
   - DOMAIN-SUFFIX,leaseweb.net
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,pypi.io
