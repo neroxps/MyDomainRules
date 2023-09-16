@@ -31,6 +31,8 @@ payload:
   - DOMAIN-SUFFIX,uwaterloo.ca
   - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,rackspace.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,leaseweb.net
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,pypi.io
